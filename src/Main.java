@@ -60,7 +60,6 @@ public class Main {
         }
 
         System.out.println("Task 10");
-
         int total2 = 2;
         for (int i = 1; i <= 10; i++) {
             int result = total2 * i;
