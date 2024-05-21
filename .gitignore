@@ -4,7 +4,10 @@ out/
 !**/src/test/**/out/
 .idea
 DZ1.6.iml
-
+hs_err_pid7996.log
+hs_err_pid8416.log
+hs_err_pid10364.log
+hs_err_pid11024.log
 
 ### Eclipse ###
 .apt_generated
