@@ -12,19 +12,16 @@ public class Main {
         }
 
         System.out.println("Task 3");
-
         for (int i = 0; i < 17; i = i + 2) {
             System.out.println(i);
         }
 
         System.out.println("Task 4");
-
         for (int i = 10; i >= -10; i--) {
             System.out.println(i);
         }
 
         System.out.println("Task 5");
-
         for (int i = 1904; i <= 2096; i = i + 4) {
             System.out.println(i + " год является високосным");
         }
@@ -48,7 +45,6 @@ public class Main {
         }
 
         System.out.println("Task 9");
-
         int total1 = 0;
         int salary1 = 29000;
         for (int i = 1; i <= 12; i++) {
