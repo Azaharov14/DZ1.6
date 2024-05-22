@@ -4,10 +4,15 @@ out/
 !**/src/test/**/out/
 .idea
 DZ1.6.iml
-hs_err_pid7996.log
-hs_err_pid8416.log
-hs_err_pid10364.log
-hs_err_pid11024.log
+`git rm --cached <hs_err_pid7996.log>`
+`git commit -m "Remove log files from the repository"`
+`git rm --cached <hs_err_pid8416.log>`
+`git commit -m "Remove log files from the repository"`
+`git rm --cached <hs_err_pid10364.log>`
+`git commit -m "Remove log files from the repository"`
+`git rm --cached <hs_err_pid11024.log>`
+`git commit -m "Remove log files from the repository"`
+
 
 ### Eclipse ###
 .apt_generated
